@@ -15,8 +15,11 @@
 
         <ImageView
             android:layout_width="180dp"
-            android:layout_height="100dp"
+            android:layout_height="60dp"
+
             android:src="@drawable/gt"
             android:scaleType="center"/>
+
     </LinearLayout>
+
 </LinearLayout>
